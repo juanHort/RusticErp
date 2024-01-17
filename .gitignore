@@ -1,1 +1,22 @@
-/target
+# Compiled files
+/target/
+
+# Backup files generated during Cargo build
+**/*.rs.bk
+
+# JetBrains IDE
+.idea/
+*.iml
+*.iws
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Linux specific
+.*.swp
+
+# Environment variables and configuration files
+.env
