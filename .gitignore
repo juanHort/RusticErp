@@ -1,5 +1,7 @@
 # Compiled files
 /target/
+backend/target/
+frontend/target/
 
 # Backup files generated during Cargo build
 **/*.rs.bk
